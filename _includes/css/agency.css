@@ -9,11 +9,9 @@ body {
     font-family: {{ site.data.template.font.primary }}; /*"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;*/
     color: #{{ site.data.template.color.secondary-dark }};
 }
-
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }
-
 .text-primary {
     color: #{{ site.data.template.color.primary }};
 }
@@ -604,7 +602,6 @@ section#contact .form-group input,
 section#contact .form-group textarea {
     padding: 20px;
 }
-
 section#contact .form-group input.form-control {
     height: auto;
 }
@@ -739,6 +736,8 @@ body {
 
 .contact-info {
     padding-top: 20px;
+    font-weight: bold;
+    font-size: 17px;
 }
 
 
@@ -752,4 +751,8 @@ body {
 
 .sliding {
     font-size: 13px;
+}
+
+.big-font {
+    font-size: 16px;
 }
