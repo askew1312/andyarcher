@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Work Sans","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Raleway","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -734,5 +734,15 @@ body {
 }
 
 .more-info {
-    font-size: 20px;
+    font-size: 16px;
+}
+
+
+
+.sliding-heading {
+    font-size: 14px;
+}
+
+.sliding {
+    font-size: 13px;
 }
