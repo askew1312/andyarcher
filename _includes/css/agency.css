@@ -737,7 +737,14 @@ body {
     font-size: 16px;
 }
 
+.contact-info {
+    padding-top: 20px;
+}
 
+
+.spaced-paragraph {
+    padding-bottom: 12px;
+}
 
 .sliding-heading {
     font-size: 14px;
