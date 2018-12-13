@@ -1,4 +1,4 @@
-url: https://y7kim.github.io
+url: https://andyarcher.org
 baseurl: ''
 
 # Site settings
@@ -7,9 +7,9 @@ email: andy.archer@yale.edu
 description: "It is no measure of health to be well adjusted to a profoundly sick society. ― J. Krishnamurti"
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
